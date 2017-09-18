@@ -19,11 +19,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Larakit\\Acl\\": "src/Acl"
+            "Larakit\\Acl\\": "src"
         },
-        "files": [
-            "src/init.php"
-        ]
     },
      "minimum-stability": "dev"
 }
